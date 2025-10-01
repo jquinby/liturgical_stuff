@@ -50,12 +50,13 @@
 #		  presidence, kgb
 #
 #-----------------------------------------------------------------------
-# 15Feb25: updated for 2025, included US-specific memorials, etc, source
-#     document:  "Liturgy of the Hours Supplement for the Dioceses of the United
-#     States" by Dominican Liturgy Publications. I did not include the Solemnity
-#     of our Lady of Refuge, observed only in California.
-# 21Jan25: Jan 22 fixed for 'Day of Prayer for the Unborn' Vincent, De & M moved 
-#     to Jan 23  perpetually in the US
+#   15Feb25 : updated for 2025, included US-specific memorials, etc, source
+#         document:  "Liturgy of the Hours Supplement for the Dioceses of the United
+#         States" by Dominican Liturgy Publications. I did not include the Solemnity
+#         of our Lady of Refuge, observed only in California.
+#   21Jan25 : Jan 22 fixed for 'Day of Prayer for the Unborn' Vincent, De & M moved 
+#         to Jan 23 perpetually in the US
+#   07Apr25 :  updated with Bl. Stanley Rother, M on July 28
 
 JANUARY  1 S W Solemnity of Mary, Mother of God
 JANUARY  2 M W Basil the Great and Gregory Nazianzen, Bb & Dd
@@ -146,7 +147,7 @@ JUNE 29 S R Peter and Paul, Ap
 JUNE 30 O - First Martyrs of the Church of Rome
 JULY  1 O - St. Junipero Serra, P & Rel
 JULY  3 F R Thomas, Ap
-JULY  4 O - Independence Day; Elizabeth of Portugal
+JULY  4 O - Independence Day; Elizabeth of Portugal; Pier Giorgio Frassati
 JULY  5 O - Anthony Zaccaria, P
 JULY  6 O - Maria Goretti, V & M
 JULY  9 O - Augustine Zhao Kong, P & Companions, Mm
@@ -162,7 +163,7 @@ JULY 23 O - Bridget, Rel
 JULY 24 O - Charbel Makhlūf, P
 JULY 25 F R James, Ap
 JULY 26 M W Joachim and Ann, Parents of Mary
-July 28 M R Bl. Stanley Rother, P
+JULY 28 M R Bl. Stanley Rother, P
 JULY 29 M W Mary, Martha, and Lazarus
 JULY 30 O - Peter Chrysologus, B & D
 JULY 31 M W Ignatius of Loyola, P
@@ -217,7 +218,8 @@ OCTOBER  5 O - Faustina Kowalska, V; Bl. Francis X. Seelos, P
 OCTOBER  6 O - Bruno, P; Bl. Marie Rose Durocher, V
 OCTOBER  7 M W Our Lady of the Rosary
 OCTOBER  9 O - Denis, B & M and companions, Mm; John Leonardi, P
-OCTOBER 11 O - John XXIII, Po; Bl. Carlos Acutis
+OCTOBER 11 O - John XXIII, Po
+OCTOBER 12 M - Carlo Acutis
 OCTOBER 14 O - Callistus I, Po & M
 OCTOBER 15 M W Teresa of Avila, V & D
 OCTOBER 16 O - Hedwig, Rel; Margaret Mary Alacoque, V
